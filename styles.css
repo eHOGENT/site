@@ -25,7 +25,7 @@
     --heading-color: #ff00ff;
 	--link-color: #ffff00;
 	--font-family: consolas, monospace;
-	--logo: url('../images/HOGENT_Logo_neg.png');
+	--logo: url('images/HOGENT_Logo_neg.png');
 }
 
 /* [data-theme="dark"] { */
