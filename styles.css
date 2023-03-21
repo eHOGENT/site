@@ -46,14 +46,14 @@ body {
 }
 
 .logo {
-	background-image: url('../images/HOGENT_Logo_neg.png');
+	background-image: url('images/HOGENT_Logo_neg.png');
 	width: 89px;
 	height: 50px;
 	margin: 20px;
 }
 
 .banner {
-	background-image: url("../images/banner.jpg");
+	background-image: url("images/banner.jpg");
 	background-color: black;
 	height: 115px;
 	padding-left: 50px;
