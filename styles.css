@@ -140,6 +140,19 @@ td.list_code {
 	border-width: 2px;
 }
 
+.message-red {
+	padding: 10px;
+	margin: 2px 0 10px 0;
+	font-size: 15px;
+	font-weight: bold;
+	color: white;
+	/* background-color: var(--bg3-color);*/
+	background-color: rgb(204,0,0);
+	border-color: rgb(173,148,45);
+	border-style: dashed;
+	border-width: 2px;
+}
+
 .footer {
 	text-align: center;
 	margin-top: 100px;
